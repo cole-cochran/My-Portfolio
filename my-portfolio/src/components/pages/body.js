@@ -1,6 +1,6 @@
 import React from 'react';
 import './assets/css/style.css'
-function Header() {
+function Body() {
     return (
   <body>
     <header class="header">
@@ -70,8 +70,8 @@ function Header() {
         <h2>Designed by Cole Cochran</h2>
     </footer>
 </body>
-</html>
-)
+</html>)
+
 }
 
-export default Header;
+export default Body;
