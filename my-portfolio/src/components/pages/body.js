@@ -24,7 +24,7 @@ function Body() {
                 Cole Cochran is a Software Engineer with experience in DevOps & Site Reliability.
                 Currently studying Full Stack Development. When not working on understanding different programming languages, he spends time mountain biking and entertaining his Australian Shepherd. 
                 </p>
-                <img src="assets/images/IMG_0035.JPG">
+                <img src="assets/images/IMG_0035.JPG"></img>
             </article>
         </section>
         <container class="projects">
@@ -70,8 +70,7 @@ function Body() {
         <h2>Designed by Cole Cochran</h2>
     </footer>
 </body>
-</html>)
-
+)
 }
 
 export default Body;
