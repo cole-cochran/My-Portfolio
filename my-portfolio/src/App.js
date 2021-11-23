@@ -1,5 +1,5 @@
 import React from 'react';
-import Body from './components/pages/body';
+import Body from './components/style/body';
 
 function App() {
   return <Body />;
