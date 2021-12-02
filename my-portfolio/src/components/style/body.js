@@ -2,18 +2,18 @@ import React from "react"
 
 export default function Body() {
     return (
-    <main> 
+    <main class="body"> 
     <figure title="geometric" class="headerphoto"></figure>
-        <section id="about-me" class="about-me">
-            <h2>About Me</h2>
+        {/* <section id="about-me" class="about-me"> */}
+            {/* <h2>About Me</h2>
             <article class="article">
                 <p>
                 Cole Cochran is a Software Engineer with experience in DevOps, and Site Reliability.
                 Currently studying Full Stack Development. When not working on understanding different programming languages, he spends time mountain biking and entertaining his Australian Shepherd. 
                 </p>
                 {/* <img src="assets/images/IMG_0035.JPG"></img> */}
-            </article>
-        </section>
+            {/* </article>
+        </section> */} 
         {/* <container class="projects">
         <div class="work">
             <figure class="project1">
@@ -43,14 +43,6 @@ export default function Body() {
             </figure>  
         </div> 
         </container> */}
-        <section id="contact-me" class="contact-me">
-            <h2>Contact Me</h2>
-            <div class= "links">
-                <a href="mailto:colecochran405@gmail.com">Email</a>
-                <a href="https://github.com/cole-cochran">Github</a>
-                <a href="https://www.linkedin.com/in/cole-cochran-49983911a/">LinkedIn</a>
-            </div>
-        </section>
         </main>
            );
         }

@@ -4,12 +4,15 @@ import Work from './components/pages/Work'
 import NavBar from './components/style/Navbar';
 import Footer from './components/style/Footer'
 import { ClassNames } from '@emotion/react';
+import '../src/index.css'
 
 function App() {
   return (
     <div className="my-portfolio">
-    <Work />;
+    <NavBar />;  
     <Body />;
+    <Work />;
+    <Footer />;
     </div>
 
   );

@@ -15,7 +15,7 @@ body {
     background-color: var(--darkest-blue);
 }
 
-.header {
+.navbar{
     padding: 20px;
     background-color: var(--green);
     color: var(--white);
@@ -28,7 +28,7 @@ body {
    
 }
 
-.header h1 {
+.navbar h1 {
     display: inline-block;
     font-size: 52px;
     background-color: var(--darkest-blue);

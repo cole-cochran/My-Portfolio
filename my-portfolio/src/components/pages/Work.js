@@ -10,8 +10,6 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
-
-
 export default function Cards() {
  
     const theme = createTheme();
@@ -19,9 +17,6 @@ export default function Cards() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <main>
-
-
-
           <Container sx={{ py: 8 }} maxWidth="lg">
              End hero unit
             <Grid container spacing={4}>
