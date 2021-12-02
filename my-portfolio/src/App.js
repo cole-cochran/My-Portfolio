@@ -4,7 +4,7 @@ import Work from './components/pages/Work'
 import NavBar from './components/style/Navbar';
 import Footer from './components/style/Footer'
 // import { ClassNames } from '@emotion/react';
-import '../src/index.css'
+import '../src/App.css'
 import Header from './components/style/Header';
 
 function App() {

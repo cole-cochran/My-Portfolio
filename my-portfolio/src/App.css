@@ -1,0 +1,165 @@
+:root {
+    --darkest-blue: #084F8C;
+    --blue: #085A8C;
+    --lighter-blue: #0B688C;
+    --teal: #14808C;
+    --green:#1B8C77;
+    --white: #ffffff;
+}
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.body {
+    background-color: var(--darkest-blue);
+}
+
+.navbar{
+    padding: 20px;
+    background-color: var(--green);
+    color: var(--white);
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.navbar h1 {
+    display: inline-block;
+    font-size: 52px;
+    background-color: var(--darkest-blue);
+    border: solid 15px;
+    border-color: var(--darkest-blue);
+    border-radius: 10px;
+}
+
+.navbar {
+    display: flex;
+    font-size: 22px;
+    margin-left: auto;
+    padding-top: 30px;
+}
+
+a {
+    color: var(--white);
+}
+
+
+.headerphoto {
+    height: 400px;
+    width: 100%;
+    background-image: url("../src/assets/images/websiteheader.png");
+    background-position: absolute;
+}
+
+main {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: var(--white);
+    font-size: 20px;
+
+}
+
+.about-me {
+    font-size: 25px;
+    text-align: left;
+    padding: 10px;
+}
+
+.article {
+    font-size: 16px;
+    padding: 10px
+}
+
+.work {
+    flex: grid;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.box .box-header {
+    /* use position and negative margins to move title of card over the card's outline and create an overlap effect */
+    padding: 40px;
+    color: var(--white);
+    border: 5px solid var(--teal);
+    transition: all 0.5s ease-in-out;
+  }
+
+.project1 {
+    padding: 40px;
+    background-image: url(https://github.com/cole-cochran/Portfolio-CC/blob/main/assets/images/project1.jpg?raw=true);
+    background-size: 100%;
+    color: var(--white);
+    border: 5px solid var(--teal);
+    transition: all 0.5s ease-in-out;
+    text-align: right;
+}
+.project1:hover {
+    box-shadow: 5px 5px 5px 5px var(--teal);
+  }
+
+.project2 {
+    padding: 40px;
+    background-image: url(https://github.com/cole-cochran/Portfolio-CC/blob/main/assets/images/pipdreams.jpg?raw=true);
+    background-size: 100%;
+    color: var(--white);
+    border: 5px solid var(--teal);
+    transition: all 0.5s ease-in-out;
+    text-align: right;
+}
+.project2:hover {
+    box-shadow: 5px 5px 5px 5px var(--teal);
+  }
+
+.box:hover .box-header {
+    box-shadow: 5px 5px 5px 5px var(--teal);
+  }
+.contact-me {
+    padding: 10px;
+    text-align: left; 
+}
+
+.links {
+    margin-bottom: 10px;
+    text-align: right; 
+    justify-content: space-around;
+   
+}
+
+.footer {
+    padding: 40px;
+    clear: both;
+    text-align: center;
+    background-color: var(--green);
+    color: var(--white);
+}
+
+.footer h2 {
+    font-size: 16px;
+}
+
+
+@media screen and (min-width: 768px) {
+    .work {
+      flex: 0 0 50%;
+      max-width: 50%;
+    }
+    .work:last-child {
+      flex-grow: 1;
+    }
+  }
+@media screen and (min-width: 992px) {
+    header {
+      width: 100%;
+    }
+  
+    .work {
+      flex: 0 0 33.333%;
+      max-width: 33.333%;
+    }
+}

@@ -5,6 +5,7 @@
     --teal: #14808C;
     --green:#1B8C77;
     --white: #ffffff;
+    background-color: var(--darkest-blue);
 }
 
 * {
