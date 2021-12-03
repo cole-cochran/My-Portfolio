@@ -51,9 +51,10 @@ a {
 
 .headerphoto {
     height: 400px;
-    /* width: 120%; */
+    object-fit: cover;
     background-image: url("../src/assets/images/websiteheader.png");
     background-position: center;
+    margin: auto;
 }
 
 main {
