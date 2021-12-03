@@ -175,8 +175,6 @@ export default function Cards() {
 </Grid>
 </Grid>
 </Container>
-
-
 </main>
       </ThemeProvider>
     );

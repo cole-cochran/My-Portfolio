@@ -10,10 +10,10 @@ import Header from './components/style/Header';
 function App() {
   return (
     <div className="my-portfolio">
-    <Header />; 
-    <Body />;
-    <Work />;
-    <Footer />;
+    <Header />
+    <Body />
+    <Work />
+    <Footer />
     </div>
 
   );

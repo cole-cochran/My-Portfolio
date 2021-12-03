@@ -51,9 +51,9 @@ a {
 
 .headerphoto {
     height: 400px;
-    width: 100%;
+    width: 120%;
     background-image: url("../src/assets/images/websiteheader.png");
-    background-position: absolute;
+    background-position: center;
 }
 
 main {
