@@ -53,9 +53,9 @@ a {
 .headerphoto {
     height: 300px;
     width: 100%;
-    background-image: url("../images/websiteheader.jpeg");
-    background-size: cover;
-    background-position: center;
+    background-image: url("../images/websiteheader.png");
+    
+    object-fit: cover;
 }
 
 main {

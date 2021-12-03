@@ -3,8 +3,8 @@ import '../../assets/css/style.css'
 
 export default function Body() {
     return (
-    <main class="body"> 
-    <figure title="geometric" class="headerphoto"></figure>
+    <main className="body"> 
+    <figure title="geometric" className="headerphoto"></figure>
         {/* <section id="about-me" class="about-me"> */}
             {/* <h2>About Me</h2>
             <article class="article">
