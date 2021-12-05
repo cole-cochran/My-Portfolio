@@ -25,15 +25,15 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="../src/assets/images/cryptocosmos.png"
+        image=""
         alt="Image of web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Crypto Cosmos
+          Cactus
         </Typography>
         <Typography variant="body2" color="text.secondary">
-         Crypto Cosmos is your all in one site to compare the latest trends in crypto currency, and crypto news.
+         Cactus is a sleek, secure, and transparent social media platform for web developers. Built by developers, for developers. 
         </Typography>
       </CardContent>
       <CardActions>
@@ -48,16 +48,15 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="./images/imgs/weatherpic.avif"
+        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/cryptocosmos.png?raw=true"
         alt="Image of a web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Weather Dashboard
+        Crypto Cosmos
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+        Crypto Cosmos is your all in one site to compare the latest trends in crypto currency, and crypto news.
         </Typography>
       </CardContent>
       <CardActions>
@@ -72,7 +71,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="./images/imgs/projectOne.avif"
+        image=""
         alt="Image of a web application"
       />
       <CardContent>
