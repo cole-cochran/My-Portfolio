@@ -9,7 +9,7 @@ import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import image from '../../assets/images/cryptocosmos.png'
+
 
 export default function Cards() {
  
@@ -25,7 +25,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="../../assets/images/cryptocosmos.png"
+        image="../src/assets/images/cryptocosmos.png"
         alt="Image of web application"
       />
       <CardContent>
@@ -168,30 +168,6 @@ export default function Cards() {
 
 </Grid>
 <Grid item  xs={12} sm={6} md={4}>
-
-    <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
-      <CardMedia
-        component="img"
-        height="140"
-        image="./images/imgs/h1.avif"
-        alt="Image of a web application"
-      />
-      <CardContent>
-        <Typography gutterBottom variant="h5" component="div">
-          Budgeting App
-        </Typography>
-        <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
-        </Typography>
-      </CardContent>
-      <CardActions>
-        <Button size="medium">Repository</Button>
-        <Button size="medium">Deployment</Button>
-      </CardActions>
-    </Card>
-  
-
 </Grid>
 </Grid>
 </Container>
