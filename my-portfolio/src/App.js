@@ -1,5 +1,5 @@
 import React from 'react';
-import Body from './components/style/Body';
+import Body from './components/style/HeaderImage';
 import Work from './components/style/Work'
 import NavBar from './components/style/Navbar';
 import Footer from './components/style/Footer'
