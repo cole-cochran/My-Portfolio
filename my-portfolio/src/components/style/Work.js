@@ -49,7 +49,7 @@ export default function Cards() {
         component="img"
         height="140"
         image="./images/imgs/weatherpic.avif"
-        alt="green iguana"
+        alt="Image of a web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
@@ -73,7 +73,7 @@ export default function Cards() {
         component="img"
         height="140"
         image="./images/imgs/projectOne.avif"
-        alt="green iguana"
+        alt="Image of a web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
@@ -97,7 +97,7 @@ export default function Cards() {
         component="img"
         height="140"
         image="./images/imgs/weatherpic.avif"
-        alt="green iguana"
+        alt="Image of a web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
@@ -121,7 +121,7 @@ export default function Cards() {
         component="img"
         height="140"
         image="./images/imgs/h2.avif"
-        alt="green iguana"
+        alt="Image of a web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
@@ -174,7 +174,7 @@ export default function Cards() {
         component="img"
         height="140"
         image="./images/imgs/h1.avif"
-        alt="green iguana"
+        alt="Image of a web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
