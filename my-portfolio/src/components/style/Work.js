@@ -25,7 +25,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image=""
+        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/cactus.png?raw=true"
         alt="Image of web application"
       />
       <CardContent>
@@ -71,16 +71,15 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image=""
+        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/pipedreams.png?raw=true"
         alt="Image of a web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Project-One
+          Pipe Dreams
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+         In an unfamiliar place, and want to find the cheapest fuel, or closest charging station? Pipe Dreams is the quick, efficient way to post, and follow fuel prices to your location. Use the built in map feature to build out your route. 
         </Typography>
       </CardContent>
       <CardActions>
@@ -95,7 +94,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="./images/imgs/weatherpic.avif"
+        image=""
         alt="Image of a web application"
       />
       <CardContent>
