@@ -131,6 +131,18 @@ main {
    
 }
 
+.signup-form-section {
+    padding-bottom: 5rem;
+    width: calc(100% - 1rem);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signup-form-section h3 {
+    font-size: 1.5rem;
+}
 .footer {
     padding: 40px;
     clear: both;

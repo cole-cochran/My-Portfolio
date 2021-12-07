@@ -15,7 +15,6 @@ function App() {
     <Body />
     <Work />
     <Contact />
-    <Footer />
     </div>
 
   );
