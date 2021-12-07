@@ -65,7 +65,7 @@ function Contact() {
         </Form.Group>
         <Form.Group className="mb-3" controlId="formBasicCheckbox">
            <Form.Check type="checkbox" label="Check me out" />
-        </Form.Group> <Button variant="primary" type="submit"> Submit </Button>
+        </Form.Group> <Button variant="primary" type="submit" href="mailto:colecochran405@gmail.com"> Submit </Button>
      </Form>
 
 

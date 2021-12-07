@@ -147,7 +147,7 @@ main {
     padding: 40px;
     clear: both;
     text-align: center;
-    background-color: var(--green);
+    background-color: var(--lighter-blue);
     color: var(--white);
 }
 
