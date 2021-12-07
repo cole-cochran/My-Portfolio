@@ -94,7 +94,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image=""
+        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/weather.png?raw=true"
         alt="Image of a web application"
       />
       <CardContent>
@@ -117,7 +117,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="./images/imgs/h2.avif"
+        image=""
         alt="Image of a web application"
       />
       <CardContent>
