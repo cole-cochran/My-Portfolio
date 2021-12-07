@@ -37,8 +37,8 @@ export default function Cards() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="medium">Repository</Button>
-        <Button size="medium">Deployment</Button>
+        <Button size="medium"href="https://github.com/cole-cochran/Cactus-Social">Repository</Button>
+        <Button size="medium">Deployment coming soon</Button>
       </CardActions>
     </Card>
     </Grid>
@@ -60,8 +60,8 @@ export default function Cards() {
         </Typography>
       </CardContent>
       <CardActions >
-        <Button size="medium">Repository</Button>
-        <Button size="medium">Deployment</Button>
+        <Button size="medium"href="https://github.com/cole-cochran/Crypto-Cosmos">Repository</Button>
+        <Button size="medium"href="https://cole-cochran.github.io/Crypto-Cosmos/">Deployment</Button>
       </CardActions>
     </Card>
     </Grid>
@@ -83,8 +83,8 @@ export default function Cards() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="medium">Repository</Button>
-        <Button size="medium">Deployment</Button>
+        <Button size="medium" href="https://github.com/cole-cochran/Pipe-Dreams">Repository</Button>
+        <Button size="medium" href="https://pipe-dreams.herokuapp.com/">Deployment</Button>
       </CardActions>
     </Card>
     </Grid>
@@ -106,8 +106,8 @@ export default function Cards() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="medium">Repository</Button>
-        <Button size="medium">Deployment</Button>
+        <Button size="medium" href="https://github.com/cole-cochran/weather-dashboard">Repository</Button>
+        <Button size="medium"href="https://cole-cochran.github.io/weather-dashboard/">Deployment</Button>
       </CardActions>
     </Card>
     </Grid>
@@ -129,8 +129,8 @@ export default function Cards() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="medium">Repository</Button>
-        <Button size="medium">Deployment</Button>
+        <Button size="medium" href="https://github.com/cole-cochran/My-Tech-Blog">Repository</Button>
+        <Button size="medium" href="https://my-tech-blog-2021.herokuapp.com/">Deployment</Button>
       </CardActions>
     </Card>
   
@@ -148,16 +148,15 @@ export default function Cards() {
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Send it!
+          Your Fitness Tracker
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          With this web based fitness tracker, you can easily track your workouts with individual activities. It is quick and easy to sort between cardio, or weight training. Plus, create your own workout and log your progress!
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="medium">Repository</Button>
-        <Button size="medium">Deployment</Button>
+        <Button size="medium" href="https://github.com/cole-cochran/Mongoose-Fitness-Tracker">Repository</Button>
+        <Button size="medium" href="https://desolate-river-96368.herokuapp.com/?id=61a693a8e811be0016f00b1b">Deployment</Button>
       </CardActions>
     </Card>
   
