@@ -1,12 +1,15 @@
-export default function Footer() {
+import React, { useState } from 'react'
+
+const Contact = () => {
     return (
-<section id="contact-me" class="contact-me">
-<h2>Contact Me</h2>
-<div class= "links">
-    <a href="mailto:colecochran405@gmail.com">Email</a>
-    <a href="https://github.com/cole-cochran">Github</a>
-    <a href="https://www.linkedin.com/in/cole-cochran-49983911a/">LinkedIn</a>
-</div>
-</section>
+        <div id="contact-form">
+            <input type="text" placeholder="Your Name" />
+            <input type="email" placeholder="Your email address" />
+            <textarea placeholder="Your message"></textarea>
+            <button>Send Message</button>
+            <span>Thank you for your message, we will be in touch in no time!</span>
+        </div>
     );
-}
+};
+
+export default Contact;

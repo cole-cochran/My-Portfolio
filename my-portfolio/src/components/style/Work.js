@@ -59,7 +59,7 @@ export default function Cards() {
         Crypto Cosmos is your all in one site to compare the latest trends in crypto currency, and crypto news.
         </Typography>
       </CardContent>
-      <CardActions>
+      <CardActions >
         <Button size="medium">Repository</Button>
         <Button size="medium">Deployment</Button>
       </CardActions>
