@@ -117,16 +117,15 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image=""
+        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/techblog.png?raw=true"
         alt="Image of a web application"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Send it!
+          Cole's Tech Blog
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          Checkout my daily tech blog, it follows the keep it simple stupid model. Feel free to create an account, and post your own thoughts. 
         </Typography>
       </CardContent>
       <CardActions>
