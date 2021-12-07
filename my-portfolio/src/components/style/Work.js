@@ -99,11 +99,10 @@ export default function Cards() {
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Weather Dashboard
+         Check your weather. 
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+         Weather can change rapidly, no matter where you are. Planning a trip, or an outing in your city? Check out your weather here!
         </Typography>
       </CardContent>
       <CardActions>
