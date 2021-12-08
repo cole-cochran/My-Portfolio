@@ -3,7 +3,6 @@ import Body from './components/style/HeaderImage';
 import About from './components/style/About';
 import Work from './components/style/Work'
 import Contact from './components/style/Contact'
-// import Footer from './components/style/Footer'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../src/App.css'
 import Header from './components/style/Header';
@@ -16,7 +15,7 @@ function App() {
     <About />
     <Work />
     <Contact />
-    {/* <Footer /> */}
+ 
     </div>
 
   );
