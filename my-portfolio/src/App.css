@@ -27,7 +27,17 @@ a {
     background-position: center;
     margin: auto;
 }
-
+.navbar{
+    color: var(--lighter-blue);
+    background-color: white;
+    font-size: 30px;
+}
+.nav-logo {
+    float: center !important;
+    justify-content: space-around;
+    padding-left: 25px;
+    transform: scale(1.8)
+  }
 main {
     padding-top: 25px;
     padding-bottom: 25px;

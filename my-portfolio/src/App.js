@@ -8,7 +8,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../src/App.css'
 import Header from './components/style/Header';
 
-
 function App() {
   return (
     <div className="my-portfolio">
