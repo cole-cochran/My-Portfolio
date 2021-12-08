@@ -25,7 +25,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/cactus.png?raw=true"
+        image="https://github.com/cole-cochran/My-Portfolio/blob/develop/src/assets/images/cactus.png?raw=true"
         alt="Image of web application"
       />
       <CardContent>
@@ -48,7 +48,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/cryptocosmos.png?raw=true"
+        image="https://github.com/cole-cochran/My-Portfolio/blob/develop/src/assets/images/cryptocosmos.png?raw=true"
         alt="Image of a web application"
       />
       <CardContent>
@@ -71,7 +71,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/pipedreams.png?raw=true"
+        image="https://github.com/cole-cochran/My-Portfolio/blob/develop/src/assets/images/pipedreams.png?raw=true"
         alt="Image of a web application"
       />
       <CardContent>
@@ -94,7 +94,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/weather.png?raw=true"
+        image="https://github.com/cole-cochran/My-Portfolio/blob/develop/src/assets/images/weather.png?raw=true"
         alt="Image of a web application"
       />
       <CardContent>
@@ -117,7 +117,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="https://github.com/cole-cochran/My-Portfolio/blob/main/my-portfolio/src/assets/images/techblog.png?raw=true"
+        image="https://github.com/cole-cochran/My-Portfolio/blob/develop/src/assets/images/techblog.png?raw=true"
         alt="Image of a web application"
       />
       <CardContent>
@@ -143,7 +143,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="https://github.com/cole-cochran/My-Portfolio/blob/develop/my-portfolio/src/assets/images/fitnesstracker.png?raw=true"
+        image="https://github.com/cole-cochran/My-Portfolio/blob/develop/src/assets/images/fitnesstracker.png?raw=true"
         alt="Coming Soon"
       />
       <CardContent>

@@ -7,7 +7,7 @@ export default function ImageAvatars() {
   return (
     <Stack className="about-me">
         <Avatar alt="Cole Cochran staring into the distance" 
-        src="https://github.com/cole-cochran/My-Portfolio/blob/develop/my-portfolio/src/assets/images/portrait.png?raw=true"
+        src="https://github.com/cole-cochran/My-Portfolio/blob/develop/src/assets/images/portrait.png?raw=true"
         sx={{ width: 200, height: 200 }}
       />
       <Typography>
