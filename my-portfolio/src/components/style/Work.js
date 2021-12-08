@@ -33,7 +33,7 @@ export default function Cards() {
           Cactus
         </Typography>
         <Typography variant="body2" color="text.secondary">
-         Cactus is a sleek, secure, and transparent social media platform for web developers. Built by developers, for developers. 
+         Cactus is a sleek, secure, and transparent social media platform for web developers. Built by developers, for developers. With build in, encrypted chat it is also a secure place to plan your next big idea. 
         </Typography>
       </CardContent>
       <CardActions>
@@ -56,7 +56,7 @@ export default function Cards() {
         Crypto Cosmos
         </Typography>
         <Typography variant="body2" color="text.secondary">
-        Crypto Cosmos is your all in one site to compare the latest trends in crypto currency, and crypto news.
+        Crypto Cosmos is your all in one site to compare the latest trends in crypto currency, and crypto news. Check back frequently to see our new development of implenting a more robust news feed!
         </Typography>
       </CardContent>
       <CardActions >
@@ -102,7 +102,7 @@ export default function Cards() {
          Check your weather. 
         </Typography>
         <Typography variant="body2" color="text.secondary">
-         Weather can change rapidly, no matter where you are. Planning a trip, or an outing in your city? Check out your weather here!
+         Weather can change rapidly, no matter where you are. Planning a trip, or an outing in your city? Check out your weather here! We all know what it is like to forget to bring a jacket or umbrella and end up caught in the weather.
         </Typography>
       </CardContent>
       <CardActions>
@@ -125,7 +125,7 @@ export default function Cards() {
           Cole's Tech Blog
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Checkout my daily tech blog, it follows the keep it simple stupid model. Feel free to create an account, and post your own thoughts. 
+          Checkout my daily tech blog, it follows the keep it simple stupid model. Feel free to create an account, and post your own thoughts. As my development skills continue to improve, so will be posts and their content!
         </Typography>
       </CardContent>
       <CardActions>
@@ -143,7 +143,7 @@ export default function Cards() {
       <CardMedia
         component="img"
         height="140"
-        image="#"
+        image="https://github.com/cole-cochran/My-Portfolio/blob/develop/my-portfolio/src/assets/images/fitnesstracker.png?raw=true"
         alt="Coming Soon"
       />
       <CardContent>
