@@ -6,7 +6,7 @@ import Contact from './components/style/Contact'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../src/App.css'
 import Header from './components/style/Header';
-import FooterFuck from './components/style/FooterFuck'
+import Footer from './components/style/Footer'
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
     <About />
     <Work />
     <Contact />
-    <FooterFuck />
+    <Footer />
     </div>
 
   );
