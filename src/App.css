@@ -70,7 +70,7 @@ main {
     padding: 40px;
     clear: both;
     text-align: left;
-    background-color: var(--lighter-blue);
+    background-color: var(--darkest-blue);
     color: var(--white);
 }
 
