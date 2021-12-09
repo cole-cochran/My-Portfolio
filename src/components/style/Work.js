@@ -38,7 +38,7 @@ export default function Cards() {
       </CardContent>
       <CardActions>
         <Button size="medium"href="https://github.com/cole-cochran/Cactus-Social">Repository</Button>
-        <Button size="medium" href="https://cactus-social.herokuapp.com/">Deployment coming soon</Button>
+        <Button size="medium" href="https://cactus-social.herokuapp.com/">Deployment</Button>
       </CardActions>
     </Card>
     </Grid>
